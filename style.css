@@ -1,0 +1,42 @@
+
+h1{
+    color: aqua;
+    font-size: 110px;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+}
+p{
+    color: black;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+#menu-bar a{
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+    font-size: 14px;
+    font-family: Helvetica, sans-serif;
+    background-color: aqua;
+}
+h2{
+    color: coral;
+    font-size: 60px;
+    font-family: serif;
+}
+h3{
+    font-size: 50px;
+    color: black;
+}
+
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+th{
+    font-weight: 700;
+    background-color: darkgreen;
+    color: orange;
+}
